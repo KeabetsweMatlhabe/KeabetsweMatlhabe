@@ -13,6 +13,10 @@
 -mkmatlhabe@gmail.com
 - 😄 Pronouns: ...She/Her.A less scripted life.
 - mkmatlhabe@gmail.com
+- www.linkedin.com/in/mmathapelo-keabetswe-matlhabe-42768b276
+# Projects
+- https://65c642fc8727d60b5aacb50e--magenta-faloodeh-eadefb.netlify.app/
+- 
 - ⚡ Fun fact: ...I enjoy exploring new hiking trails and experimenting with new recipes in the kitchen!
 
 <!---
