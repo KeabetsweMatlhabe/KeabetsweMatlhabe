@@ -1,7 +1,11 @@
-###  👋 Hi, I’m @KeabetsweMatlhabe
-   
-- 👀 I’m a Software Development 
-- 🌱 I’m currently learning ...learning full-stack web development with a focus on JavaScript frameworks like React.
+#  👋 Hi, I’m Keabetswe Matlhabe
+- 👀 I am a  Software Developer student  learning full-stack web development with a focus on JavaScript frameworks like React.
+
+# Skills
+-HTML5
+-CSS3
+Tailwind CSS
+
 - 💞️ I’m looking to collaborate on ...on open-source projects and innovative tech initiatives
 - 📫 How to reach me ...mkmatlhabe@gmail.com
 - 😄 Pronouns: ...She/Her.A less scripted life.
