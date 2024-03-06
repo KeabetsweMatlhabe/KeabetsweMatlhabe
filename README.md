@@ -5,10 +5,14 @@
 - ⚡ HTML5
 - 📫 CSS3
 - 💞️ Tailwind CSS
+  
 
 - 💞️ I’m looking to collaborate on ...on open-source projects and innovative tech initiatives
-- 📫 How to reach me ...mkmatlhabe@gmail.com
+- 
+# 📫 How to reach me 
+-mkmatlhabe@gmail.com
 - 😄 Pronouns: ...She/Her.A less scripted life.
+- mkmatlhabe@gmail.com
 - ⚡ Fun fact: ...I enjoy exploring new hiking trails and experimenting with new recipes in the kitchen!
 
 <!---
