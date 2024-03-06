@@ -2,8 +2,8 @@
 - 👀 I am a  Software Developer student  learning full-stack web development with a focus on JavaScript frameworks like React.
 
 # Skills
--HTML5
--CSS3
+- ⚡ HTML5
+- 📫 CSS3
 - 💞️ Tailwind CSS
 
 - 💞️ I’m looking to collaborate on ...on open-source projects and innovative tech initiatives
