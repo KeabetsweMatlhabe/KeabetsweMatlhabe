@@ -10,8 +10,6 @@
 - 💞️ I’m looking to collaborate on ...on open-source projects and innovative tech initiatives
 - 
 # 📫 How to reach me 
--mkmatlhabe@gmail.com
-- 😄 Pronouns: ...She/Her.A less scripted life.
 - mkmatlhabe@gmail.com
 - www.linkedin.com/in/mmathapelo-keabetswe-matlhabe-42768b276
 # Projects
