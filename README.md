@@ -1,6 +1,6 @@
-#  - 👋 Hi, I’m @KeabetsweMatlhabe
+###  👋 Hi, I’m @KeabetsweMatlhabe
    
-- 👀 I’m interested in ...software development
+- 👀 I’m a Software Development 
 - 🌱 I’m currently learning ...learning full-stack web development with a focus on JavaScript frameworks like React.
 - 💞️ I’m looking to collaborate on ...on open-source projects and innovative tech initiatives
 - 📫 How to reach me ...mkmatlhabe@gmail.com
