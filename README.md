@@ -1,5 +1,5 @@
 #  👋 Hi, I’m Keabetswe Matlhabe
-- 👀 I am a  Software Developer student  learning full-stack web development with a focus on JavaScript frameworks like React.
+- 👀 I am a  Software Developer student learning front-end web development with a focus on JavaScript frameworks and React.
 
 # Skills
 - ⚡ HTML5
