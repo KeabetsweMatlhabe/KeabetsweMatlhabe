@@ -4,7 +4,7 @@
 # Skills
 -HTML5
 -CSS3
--Tailwind CSS
+- 💞️ Tailwind CSS
 
 - 💞️ I’m looking to collaborate on ...on open-source projects and innovative tech initiatives
 - 📫 How to reach me ...mkmatlhabe@gmail.com
